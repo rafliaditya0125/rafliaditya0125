@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Flutter Bank Apps](https://github.com/rafliaditya0125/bank-flutter.git)
 
-- 🌱 I’m currently learning **Flutter,HTML,CSS,JS,PHP,Linux,Server**
+- 🌱 I’m currently learning **Flutter,HTML,CSS,JS,PHP,Linux,Server,Laravel,Code Igniter**
 
 - 💬 Ask me about **Flutter,Linux,Server**
 
