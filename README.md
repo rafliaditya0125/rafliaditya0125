@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">I'm Rafli Aditya from Indonesia<br><br>- 🔭 I’m working as Software Developer<br>- 📚 I'm currently learning Flutter,Jetpack Compose,Laravel,Code Igniter,PHP,HTML,CSS,JS,Figma,Linux,Server<br>- ⚡ Fun Fact I use Arch BTW</p>
+<p align="left">I'm Rafli Aditya from Indonesia<br><br>- 🔭 I’m working as Software Developer<br>- 📚 I'm currently learning AI Native Engineering <br>- ⚡ Fun Fact I use Arch BTW</p>
 
 ###
 
